@@ -1,7 +1,8 @@
 # -*- coding: cp1251 -*-
 
 def fib(n): #нерекурсивный алгоритм
-	fib1 = fib2 = 1 
+
+	fib1 = fib2 = 1
 	i = 2
 
 	while i < n:
