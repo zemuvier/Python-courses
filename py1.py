@@ -11,4 +11,4 @@ def fib(n): #нерекурсивный алгоритм
 		fib2 = fibs
 		i = i + 1
 
-	print fibs;
+	return fibs;
